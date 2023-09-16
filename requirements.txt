@@ -1,0 +1,4 @@
+aiogram~=2.14
+environs~=8.0.0
+psycopg2~=2.9.7
+telegraph~=2.2.0
